@@ -4,7 +4,7 @@
 
 ***Currently only works on Linux***
 
-A lightweight eye censoring program. Shows a camera display which covers one figures eyes with a black bar over both. The weight we are using for testing is linked [here](https://github.com/opencv/opencv/blob/4.x/data/lbpcascades/lbpcascade_frontalface_improved.xml).
+A lightweight eye censoring program. Shows a camera display which covers one figure's eyes with a black bar over both. The weight we are using for testing is linked [here](https://github.com/opencv/opencv/blob/4.x/data/lbpcascades/lbpcascade_frontalface_improved.xml).
 This file should be placed in the `/opt/opencv/eye_detection.xml` directory on your machine.
 This program also requires the installation of [opencv](https://opencv.org). 
 
